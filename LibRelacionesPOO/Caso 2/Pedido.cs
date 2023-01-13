@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibRelacionesPOO.Caso_2
 {
-    internal class Pedido
+    public class Pedido
     {
         public int NroPedido { get; set; }
         public Cliente Cliente { get; set; }

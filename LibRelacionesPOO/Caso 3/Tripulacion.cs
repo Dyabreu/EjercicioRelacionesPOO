@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibRelacionesPOO.Caso_3
 {
-    internal class Tripulacion
+    public class Tripulacion
     {
         public List<Azafata> Azafatas { get; set; }
     }

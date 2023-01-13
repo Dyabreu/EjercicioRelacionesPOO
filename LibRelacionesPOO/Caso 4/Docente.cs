@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibRelacionesPOO.Caso_3
+namespace LibRelacionesPOO.Caso_4
 {
-    public class Azafata
+    public class Docente
     {
-        public Tripulacion Tripulacion { get; set; }
+        public List<Alumno> Alumnos { get; set; }
     }
 }

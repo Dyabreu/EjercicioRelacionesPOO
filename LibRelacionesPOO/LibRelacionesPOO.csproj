@@ -47,6 +47,8 @@
     <Compile Include="Caso 2\Pedido.cs" />
     <Compile Include="Caso 3\Azafata.cs" />
     <Compile Include="Caso 3\Tripulacion.cs" />
+    <Compile Include="Caso 4\Alumno.cs" />
+    <Compile Include="Caso 4\Docente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
