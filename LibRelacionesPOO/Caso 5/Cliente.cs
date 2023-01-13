@@ -8,6 +8,6 @@ namespace LibRelacionesPOO.Caso_5
 {
     public class Cliente
     {
-        public DatosContacto DatosContacto { get; set; }
+        public List<DatosContacto> DatosContactos { get; set; }
     }
 }
