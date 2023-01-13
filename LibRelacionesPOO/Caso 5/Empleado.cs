@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibRelacionesPOO.Caso_4
+namespace LibRelacionesPOO.Caso_5
 {
-    public class Alumno
+    public class Empleado
     {
-        public Docente Docente { get; set; }
+        public DatosContacto DatosContacto {get; set; }
     }
 }
